@@ -1,0 +1,43 @@
+.filter {
+    margin-top: 20px;
+    width: 377px;
+    height: 25px;
+    top: 826px;
+    left: 70px;
+    gap: 20px;
+    display: flex;
+}
+
+.category {
+    width: 66px;
+    height: 25px;
+    left: 238px;
+    border: none;
+    background-color: white;
+    font-family: Lora;
+    font-size: 12px;
+    font-weight: 700;
+    line-height: 25px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #495057;
+
+
+}
+.category:hover{
+    border: #D4A373 solid 1px;
+    border-radius: 2px;
+}
+
+.choose{
+    color: #D4A373;
+
+}
+.view_all{
+    width: 47px;
+    height: 25px;
+   margin-left: 730px;
+}
+.view_all:hover{
+    border: none;
+}

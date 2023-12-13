@@ -1,0 +1,66 @@
+[
+    {
+      "title": "10 Reasons Why Tailwind CSS is the Best CSS Framework for Your Project",
+      "tags": ["css","tailwind", "frameworks"],
+      "coverImage": "https://shameem.b-cdn.net/wp-content/uploads/2023/03/why-tailwindcss-is-best.png",
+      "intro": "If you’re a front-end developer, you’ve probably heard of Tailwind CSS. It’s a popular CSS framework that’s gaining more and more popularity in the web development community. But why should you consider using Tailwind CSS for your next project?",
+      "link": "https://shameem.me/10-reasons-why-tailwindcss-is-the-best-css-framework/",
+      "date": "27.03.2023"
+    },
+    {
+      "title": "TypeScript vs. JSDoc JavaScript for static type checking",
+      "tags": ["typescript", "react"],
+      "coverImage": "https://www.pausly.app/images/blog/full-type-support-with-plain-javascript.png",
+      "intro": "There’s a debate to be had about whether using JavaScript or TypeScript leads to better outcomes when building a project. The advent of using JSDoc annotations to type a JavaScript codebase introduces a new dynamic to this discussion.",
+      "link": "https://blog.logrocket.com/typescript-vs-jsdoc-javascript/",
+      "date": "19.10.2021"
+    },
+    {
+      "title": "Past, Present, and Future of React State Management",
+      "tags": ["react", "state management"],
+      "coverImage": "https://www.bacancytechnology.com/blog/wp-content/uploads/2023/02/React-State-Management-Libraries.webp",
+      "intro": "React was introduced in May 2013. Its paradigm shift was that your UI was a function of your state. Given some component state, React can determine what your component will look like. React is built upon the idea of state. However, state has long been one of the most difficult parts of building a React application.",
+      "link": "https://leerob.io/blog/react-state-management",
+      "date": "02.02.2021"
+    },
+    {
+      "title": "Morten Rand-Hendriksen: CSS Grid Changes Everything (About Web Layouts)",
+      "tags": ["css", "grid", "video"],
+      "coverImage": "https://upload.wikimedia.org/wikipedia/commons/f/f7/CSS_Grid_Changes_Everything_%28About_Web_Layouts%29_Morten_Rand-Hendriksen_%2835015905460%29.jpg",
+      "intro": "CSS Grid is now live in all major browsers, and with it everything we know about web layouts changes!",
+      "link": "https://www.youtube.com/watch?v=txZq7Laz7_4",
+      "date": "30.06.2017"
+    },
+    {
+      "title": "Rich Harris - Rethinking reactivity",
+      "tags": ["svelte", "frameworks", "video"],
+      "coverImage": "https://pbs.twimg.com/media/D42nnJVWsAUYDT9.jpg:large",
+      "intro": "Modern JavaScript frameworks are all about reactivity. Change your application's state, and the view updates automatically. But there's a catch — tracking state changes at runtime adds overhead that eats into your bundle size and performance budgets. In this talk, we'll discover an alternative approach: moving reactivity into the language itself. Your apps have never been smaller or faster than they're about to become.",
+      "link": "https://www.youtube.com/watch?v=AdNJ3fydeao",
+      "date": "22.04.2019"
+    },
+    {
+      "title": "React.js: The Documentary",
+      "tags": ["react", "video"],
+      "coverImage": "https://i.ytimg.com/vi/8pDqJVdNa44/maxresdefault.jpg",
+      "intro": "React.js: The Documentary brings you the full story behind the early days of React, focusing on the dedicated group of developers who helped bring it to the world stage.",
+      "link": "https://www.youtube.com/watch?v=8pDqJVdNa44",
+      "date": "10.02.2023"
+    },
+    {
+      "title": "10 Things I Regret About Node.js - Ryan Dahl - JSConf EU",
+      "tags": ["backend", "Node.js", "Deno", "video"],
+      "coverImage": "https://i.ytimg.com/vi/M3BM9TB-8yA/maxresdefault.jpg",
+      "intro": "The creator of node.js talks about the flaws of his creation",
+      "link": "https://www.youtube.com/watch?v=M3BM9TB-8yA",
+      "date": "06.06.2018"
+    },
+    {
+      "title": "Tauri - The Flutter killer?",
+      "tags": ["desktop", "mobile"],
+      "coverImage": "https://miro.medium.com/v2/resize:fit:1200/1*lwh-z5mrp7P3YMaQTwCkdA.png",
+      "intro": "Tauri is an open-source framework for building cross-platform desktop applications using web technologies such as HTML, CSS, and JavaScript.",
+      "link": "https://dev.to/lynxgsm/tauri-the-flutter-killer-5h27",
+      "date": "31.03.2023"
+    }
+  ]

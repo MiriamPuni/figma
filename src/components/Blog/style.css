@@ -1,0 +1,17 @@
+.blog {
+    width: 1163px;
+    height: 1081px;
+    margin: 100px 50px;
+}
+
+.popular_topics {
+    font-family: Lora;
+    font-size: 36px;
+    font-weight: 700;
+    line-height: 46px;
+    color: #495057;
+
+}
+/* .contanier_row{
+    display: flex;
+} */
